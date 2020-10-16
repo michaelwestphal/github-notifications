@@ -1,15 +1,5 @@
 #!/bin/bash
 
-# TODO: Check for gh cli installed and error out if not
-# TODO: Ditto ditto terminal-notififier
-
-# TODO: Provide default time arg value
-
-# TODO: Show repo in the message too.
-# TODO:
-#  It would be cool if we could interogate the notification and if a PR, open a terminal
-#  window and use the gh CLI to show the PR
-
 # Only run one instance...
 if [[ "`pgrep -f $(basename $0)`" ]]; then
 	exit
