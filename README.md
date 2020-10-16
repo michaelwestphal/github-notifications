@@ -3,7 +3,7 @@
 MacOS notifications from GitHub via your terminal with the assistance of the [GitHub CLI](https://cli.github.com/).
 
 ### Acknowledgements
-Please check out the excellent [blog post](https://medium.com/doctolib/https-medium-com-darren-berg-customized-github-notifications-458f684a486e) and [repository](https://github.com/darrenberg/github-notifications) by @darrenberg for which this work originated.
+Please check out the excellent [blog post](https://medium.com/doctolib/https-medium-com-darren-berg-customized-github-notifications-458f684a486e) and [repository](https://github.com/darrenberg/github-notifications) by [@darrenberg](https://github.com/darrenberg) for which this work originated.
 
 ## Installation
 
